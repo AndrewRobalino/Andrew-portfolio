@@ -1,8 +1,9 @@
-
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-body {
-  font-family: sans-serif;
+:root {
+  --accent: #00ff88;
 }
+
+* { box-sizing: border-box; }
