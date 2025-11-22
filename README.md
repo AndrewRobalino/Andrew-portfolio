@@ -1,1 +1,1 @@
-Deploy-ready Version A portfolio.
+Option B with collapsible demos.
