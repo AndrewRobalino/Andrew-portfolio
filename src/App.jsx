@@ -26,9 +26,9 @@ const useTypewriter = (words, speed=120, pause=2000)=>{
 };
 
 const GlowBox = ({ children, className }) => (
-  <div className={\`relative rounded-2xl border border-zinc-800 bg-zinc-900/40 p-6 \${className}
+  <div className={`relative rounded-2xl border border-zinc-800 bg-zinc-900/40 p-6 ${className}
     before:content-[''] before:absolute before:inset-0 before:-z-10 before:rounded-2xl 
-    before:bg-[var(--accent)] before:blur-3xl before:opacity-20\`}>
+    before:bg-[var(--accent)] before:blur-3xl before:opacity-20`}>
     {children}
   </div>
 );
