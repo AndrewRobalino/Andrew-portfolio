@@ -1,1 +1,1 @@
-Latest version 
+Version C – glowing accents + working collapsibles.
